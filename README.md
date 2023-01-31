@@ -19,3 +19,6 @@ Using ANN (Artificial Neural Network) predict the chances of Prediction
 
 ## Visualization of Training and Testing score:
 ![visual](https://user-images.githubusercontent.com/105968767/215757702-df6d8ec6-b970-40da-9d30-0d980230aa8b.png)
+
+# Conclusion:
+- This was a great way to get started on Kaggle and for my first project outside of coursework. It gave me some practice some exploratory analysis and simple machine learning techniques.It's great to see what specific variables contribute to the chance of admission and how they are weighted against eachother.
